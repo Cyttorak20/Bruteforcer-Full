@@ -1,0 +1,14 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/Cyttorak20/Bruteforcer-Full
+    subdir: subbrute
+description: "@README.md"
+changelog: "v3.8.0 - OFW SDK support"
+author: "@DerSkythe @xMasterX @gid9798"
+screenshots:
+  - "screenshots/screenshot_01.png"
+  - "screenshots/screenshot_02.png"
+  - "screenshots/screenshot_03.png"
+  - "screenshots/screenshot_04.png"
+  - "screenshots/screenshot_05.png"
