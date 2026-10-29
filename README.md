@@ -1,12 +1,12 @@
 # Sub-GHz Continuous BruteForcer for Flipper Zero
 
-Hold-to-attack Sub-GHz bruteforcer for Flipper Zero — just **keep the OK button pressed** and the app continuously spams codes across the selected protocol/frequency family, with no manual step-by-step interaction.
+Hold-to-attack Sub-GHz bruteforcer for Flipper Zero — just **hold the OK button for a few seconds** and the app continuously spams codes across the selected protocol/frequency family, with no manual step-by-step interaction.
 
 Based on [flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute) (SubGhz BruteForcer from [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware)).
 
 ## What makes it different
 
-- **Continuous attack mode**: hold the button and the Flipper keeps sending codes from the whole frequency family until you release it — no need to confirm each step.
+- **Continuous attack mode**: hold the button and the Flipper keeps sending codes from the whole frequency family — no need to confirm each step.
 - Works with the most common static protocols (CAME, NICE, Ansonic, Holtek, Chamberlain, Linear and more).
 - Adjustable number of repeats per code.
 
@@ -24,7 +24,7 @@ We do not condone illegal activity and strongly encourage keeping transmissions 
 
 > [!WARNING]
 >
-> Tested only on [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) and [OFW](https://github.com/flipperdevices/flipperzero-firmware). Builds for other firmware versions are not guaranteed to work.
+> Tested only on Momentum Firmware(https://github.com/next-flip/momentum-firmware). Builds for other firmware versions are not guaranteed to work.
 
 ---
 
@@ -42,7 +42,7 @@ Normally each value is sent 3 times; some devices need more repetitions — incr
 
 ### Continuous Attack
 
-Once the attack starts, simply **hold the OK button**:
+Once the attack starts, simply **hold the OK button for a few seconds**:
 the app will keep sending codes non-stop across the protocol family while the button is held. Release it to pause/stop.
 
 ### Buttons
@@ -126,6 +126,6 @@ the app will keep sending codes non-stop across the protocol family while the bu
 ## Credits
 
 - [DarkFlippers / derskythe](https://github.com/derskythe) — original [flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute)
-- [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) team
+- [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) Momentum firmware (https://github.com/next-flip/momentum-firmware)team
 
 Original work is released under the MIT License — see [LICENSE](LICENSE).
