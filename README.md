@@ -2,7 +2,7 @@
 
 Hold-to-attack Sub-GHz bruteforcer for Flipper Zero — just **hold the OK button for a few seconds** and the app continuously spams codes across the selected protocol/frequency family, with no manual step-by-step interaction.
 
-Based on [flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute) (SubGhz BruteForcer from [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware)).
+Based on [flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute) (SubGhz BruteForcer from [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware).
 
 ## What makes it different
 
@@ -24,7 +24,7 @@ We do not condone illegal activity and strongly encourage keeping transmissions 
 
 > [!WARNING]
 >
-> Tested only on Momentum Firmware(https://github.com/next-flip/momentum-firmware). Builds for other firmware versions are not guaranteed to work.
+> Tested only on Momentum Firmware (https://github.com/next-flip/momentum-firmware). Builds for other firmware versions are not guaranteed to work.
 
 ---
 
@@ -126,6 +126,6 @@ the app will keep sending codes non-stop across the protocol family while the bu
 ## Credits
 
 - [DarkFlippers / derskythe](https://github.com/derskythe) — original [flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute)
-- [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) Momentum firmware (https://github.com/next-flip/momentum-firmware)team
+- [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) Momentum firmware (https://github.com/next-flip/momentum-firmware) team
 
 Original work is released under the MIT License — see [LICENSE](LICENSE).
